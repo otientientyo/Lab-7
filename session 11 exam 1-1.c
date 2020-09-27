@@ -2,7 +2,7 @@
 main(){
 	int ary[5];
 	int i, total=0, high;
-	for(i=1;i<=5;i++)
+	for(i=0;i<5;i++)
 	{
 		scanf("%d",&ary[i]);
 		total+=ary[i];

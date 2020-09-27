@@ -11,6 +11,6 @@ main(){
 			count++;
 		} 
 	} 
-	printf("Chuoi ban nhap: %s\n", a);	
+	printf("Chuoi ban nhap: %s\n", a);	// xuat gia tri chuoi a %s, a 
 	printf("Co: %d", count);
 }
